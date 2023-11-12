@@ -3,7 +3,7 @@ import random
 timmy = t.Turtle()
 t.colormode(255)
 timmy.speed("fastest")
-timmy.pensize(2)
+timmy.pensize(1)
 
 
 def random_color():
